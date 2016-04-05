@@ -21,7 +21,8 @@ import os
 # sys.path.insert(0, os.path.abspath('.'))
 sys.path.insert(0, os.path.abspath('../../src/'))
 sys.path.insert(0, os.path.abspath('../../tests/'))
-from surdonews import __version__
+# from surdonews import __version__
+__version__ = "0.1.0"
 
 # -- General configuration ------------------------------------------------
 
