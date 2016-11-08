@@ -8,7 +8,7 @@ Em Python a constante é escrita com todas as letras maiúsculas como no nome TO
 
 Use os ladrilhos nomeados de A a L para montar a câmara mostrada à direita.
 
-.. image:: http://www.fundosanimais.com/800x600/anoitecer-golfinhos.jpg
+.. image:: https://redcloud100yrs.files.wordpress.com/2011/05/3caminhos.jpg
 
 .. code-block:: python
 
